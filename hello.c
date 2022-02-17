@@ -1,17 +1,12 @@
 #include <stdio.h>
 
 
-void main()
+int main()
 {
 	printf("hello");
+	
+	return 0;
 
-<<<<<<< Updated upstream
-=======
-	cijwsnvcuwecwn
-	printf("hello!"); 
- 
-    return 0;
->>>>>>> Stashed changes
 }
 
 
